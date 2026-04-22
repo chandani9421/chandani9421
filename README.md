@@ -1,3 +1,4 @@
+<img width="847" height="280" alt="data-science-banner-web-icon-260nw-1567366987" src="https://github.com/user-attachments/assets/ff645d76-0da0-40ef-b9b9-140428d4793c" />
 <h1 align="center">Hi 👋, I'm Chandani Kumari</h1>
 <h3 align="center">Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub</h3>
 
